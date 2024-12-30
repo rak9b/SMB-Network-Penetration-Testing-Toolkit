@@ -1,0 +1,9 @@
+
+Core dependencies
+python-nmap>=0.7.1 pymetasploit3>=1.0.3 PyYAML>=5.4.1
+
+Reporting dependencies
+python-docx>=0.8.11 reportlab>=3.6.2
+
+Development dependencies
+pytest>=7.0.0 unittest2>=1.1.0
